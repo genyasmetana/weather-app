@@ -4,4 +4,4 @@
 
 here is the link
 
-https://github.com/genyasmetana/weather-app
+https://genyasmetana.github.io/weather-app/
